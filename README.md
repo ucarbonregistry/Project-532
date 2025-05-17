@@ -3,7 +3,9 @@ New Rain Resort Rainwater Harvesting Project
 
 Project Proponent Details 
 • Name – New Rain Limited (New Rain Resort) 
+
 • Director – Mrs.Esther Kibere 
+
 • Address – The New Rain, Kenyatta Road, Kiambu County, P.O. BOX 64683-00620 Nairobi  
 
 UWR RoU Scope: RoU Scope 2 
