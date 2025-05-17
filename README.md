@@ -9,6 +9,16 @@ greenhouse irrigation, and for the supply of water to the resort. The proponent 
 maintaining the catchment area and ensures the smooth flow of rainwater to the earth dam. They also 
 ensure the prevention of wastage and the efficient use of the harvested water. 
 
+Objective: The major objective was to make The New Rain Resort and its farms self-sustaining by 
+leveraging rainwater harvesting and without putting additional load on the localized underground 
+aquifers. 
+
+Outcome: A 30,000 cubic meter triangular earth dam and piping from roadside stormwater drains have 
+been built to harvest rainwater run-off from a 1.4km patch of tarmac road. The harvested water has 
+enabled the project proponent to reduce their dependency on groundwater and council water for the 
+operations of the resort and its farms; this in turn has reduced the aggregate cost of water to the project 
+proponent. 
+
 Facility Details 
 
 Plot area: 23 acres 
