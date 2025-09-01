@@ -71,3 +71,40 @@ District  Kiambu
 
 Lat. & Longitude  -1.08725,36.9777305(1°5’14.10”S,36°58’39.83”E) 
 __________________
+
+ISSUANCE DATE: 01/09/2025
+
+QTY: 68419 RoUs
+
+Vintage: 2020-2024
+____________
+Serial Number: 0001-000001-005634-UCR-RoU-KE-532-15052020-31122020
+
+Vintage Year: 2020
+
+Quantity: 5634
+___________
+Serial Number: 0001-005635-018641-UCR-RoU-KE-532-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 13007
+____________
+Serial Number: 0001-018642-027938-UCR-RoU-KE-532-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 9297
+_____________
+Serial Number: 0001-027939-038696-UCR-RoU-KE-532-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 10758
+_____________
+Serial Number: 0001-028697-068419-UCR-RoU-KE-532-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 29723
+___________
